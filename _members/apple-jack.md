@@ -1,5 +1,5 @@
 ---
-name: Apple Jack
+name: Chong Huang
 image: images/photo.jpg
 role: phd
 group: alum
